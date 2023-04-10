@@ -1,7 +1,7 @@
 #Date: 08.08.2021
 #Tested on: MacOS BigSUR 11.3; PowerShell Ver: 7.13
 
-<#
+<##
 The script can be written in PowerShell or Azure CLI or any other language you prefer.
 In this exercise, you will be asked to create two virtual machines (in parallel) - all the steps should be done from interactive script written in PowerShell and/or Azure CLI as mentioned above.
 
